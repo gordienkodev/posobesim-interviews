@@ -1,5 +1,6 @@
 # Записи интервью с сервиса пособесим https://it-incubator.io/prosobesim Раздел React
 1. https://boosty.to/frontendbaza/posts/638e1c18-8b33-406f-8701-35af8f833088
+   
 Темы:
 - Диалоги alert/prompt/confirm
 - Блокирующий код
@@ -13,6 +14,7 @@
 - Зачем нужны React Fragments
 
 2. https://boosty.to/frontendbaza/posts/c573fe35-6de3-4fd2-bd44-8984116ed2cf
+   
 Темы:
 - Базовые операции Git
 - Зачем нужен CORS
@@ -26,6 +28,7 @@
 - Самовызывающиеся функции (IIFE)
 
 3. https://boosty.to/frontendbaza/posts/723d95d1-dbac-47b6-a815-b24f774b1ff3
+   
 Темы: 
 - Базовое использование fetch()
 - Как работает алгоритм Fiber (объяснение своими словами)
@@ -39,6 +42,7 @@
 - Базовая структура HTML-документа
 
 4. https://boosty.to/frontendbaza/posts/4ef53a8d-ccdc-45bd-90f2-26be0e9fe321
+   
 Темы:
 - Цепочка прототипов
 - Наследование классов
@@ -51,6 +55,7 @@
 - Очистка таймеров и интервалов
 
 5. https://boosty.to/frontendbaza/posts/64691d9e-d721-47a2-aff5-103c123281de
+   
 Темы:
 - Уверенное написание reducer
 - Назначение хранилищ
@@ -64,6 +69,7 @@
 - Способы предотвращения DOM-событий
 
 6. https://boosty.to/frontendbaza/posts/52e23843-bd31-409d-836a-2fdf38da7f1c
+   
 Темы:
 - Hoisting (поднятие)
 - Деструктуризация и оператор spread
@@ -77,6 +83,7 @@
 - Методы flat, flatMap, includes и Array.from()
 
 7. https://boosty.to/frontendbaza/posts/c374e8b7-590b-485f-93b1-250548eb3e8f
+   
 Темы:
 - Селекторы в Redux: умение объяснить своими словами
 - Техника вёрстки с фреймворками
@@ -90,6 +97,7 @@
 - Использование HTML-символов
 
 8. https://boosty.to/frontendbaza/posts/90c19bae-99ab-4087-bbcb-be9e748618bf
+   
 Темы:
 - setTimeout и setInterval
 - Метод Object.hasOwn() вместо hasOwnProperty
