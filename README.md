@@ -109,3 +109,17 @@
 - Margin и Padding: внешние и внутренние отступы
 - Условие if
 - Шаблонные строки (template literals)
+
+9. https://boosty.to/frontendbaza/posts/0104af3f-1f57-4d2d-9203-392f83ea43c9
+
+Темы:
+- setTimeout и setInterval
+- Метод Object.hasOwn() вместо hasOwnProperty
+- Что такое SyntheticEvent и зачем он нужен
+- HTML-таблицы
+- Определение this
+- Опциональная цепочка и доступ к необязательным свойствам
+- Использование React DevTools и Redux DevTools
+- Margin и Padding: внешние и внутренние отступы
+- Условие if
+- Шаблонные строки (template literals)
