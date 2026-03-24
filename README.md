@@ -123,3 +123,17 @@
 - Margin и Padding: внешние и внутренние отступы
 - Условие if
 - Шаблонные строки (template literals)
+
+10. https://boosty.to/frontendbaza/posts/514234e9-f5c4-41ef-8bf0-6f9a5fece5e5
+
+Темы:
+- Какие параметры принимают хуки useState, useReducer и useContext
+- Z-index
+- Способы привязки this
+- Что такое ref в React
+- Логические операторы
+- Как работает метод shouldComponentUpdate
+- Способы создания объектов
+- Что такое Fiber в React
+- Свойства __proto__ и prototype
+- Работа со всплытием в компонентах
